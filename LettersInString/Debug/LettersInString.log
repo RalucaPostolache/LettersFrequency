@@ -1,0 +1,5 @@
+﻿  Main.c
+e:\facultate\visualprojects\lettersinstring\lettersinstring\main.c(10): warning C4013: 'gets' undefined; assuming extern returning int
+e:\facultate\visualprojects\lettersinstring\lettersinstring\main.c(32): warning C4013: 'system' undefined; assuming extern returning int
+  LettersInString.vcxproj -> E:\FACULTATE\VisualProjects\LettersInString\Debug\LettersInString.exe
+  LettersInString.vcxproj -> E:\FACULTATE\VisualProjects\LettersInString\Debug\LettersInString.pdb (Full PDB)
